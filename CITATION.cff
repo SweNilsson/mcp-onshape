@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "mcp-onshape: MCP server for Onshape CAD/PDM — 100 tools across 14 categories with 4 interactive UI viewers"
+authors:
+  - family-names: Pesle
+    given-names: Erwan Lee
+year: 2026
+license: MIT
+repository-code: https://github.com/Casys-AI/mcp-onshape
+type: software
